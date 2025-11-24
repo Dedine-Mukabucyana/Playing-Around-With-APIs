@@ -1,4 +1,4 @@
-	# Market Compare - Kigali Price Comparison App
+###** Kigali Price Comparison App**###
 **Live Demo**: http://54.197.14.236
 
 **Domain**: http://mukabucyanaservice.tech 
