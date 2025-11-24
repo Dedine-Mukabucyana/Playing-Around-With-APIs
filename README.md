@@ -42,13 +42,16 @@ bash
    - Type a product name in the search box
    - Press Enter or click a quick search button
    - See price comparisons instantly!
-	##  Live Deployment
+##  Live Deployment
+
 The app is deployed and accessible at:
 
--**Load Balancer**: http://54.197.14.236
--**Domain Name**: http://mukabucyanaservice.tech
--**Web Server 1**: http://52.91.188.182
--**Web Server 2**: http://3.86.25.85
+- **Load Balancer**: http://54.197.14.236
+- **Domain Name**: http://mukabucyanaservice.tech
+- **Web Server 1**: http://52.91.188.182
+- **Web Server 2**: http://3.86.25.85
+
+---
 ### Why This API?
 - Completely free to use
 - No authentication needed
